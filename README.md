@@ -15,7 +15,7 @@ Personal Portfolio Website - A responsive and modern website built with HTML, CS
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](preview.png)
 
 ---
 
